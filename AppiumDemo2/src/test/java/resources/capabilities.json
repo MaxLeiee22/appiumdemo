@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "deviceName": "Max Phone",
+  "app": "/appium/app.apk",
+  "automationName": "UiAutomator2",
+  "appPackage": "com.example.yourapp",
+  "appActivity": "com.example.yourapp.MainActivity",
+  "noReset": true
+}

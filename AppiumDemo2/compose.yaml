@@ -1,0 +1,12 @@
+
+services:
+  appium:
+  
+    image: appiumdemo2-container
+    container_name: appiumdemo2-container
+    ports:
+      - "4724:4724"
+    privileged: true
+    restart: always
+
+   

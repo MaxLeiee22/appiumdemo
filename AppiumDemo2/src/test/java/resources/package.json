@@ -1,0 +1,12 @@
+{
+  "name": "appium-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha --timeout 60000 --recursive test/"
+  },
+  "dependencies": {
+    "mocha": "^10.0.0",
+    "chai": "^4.3.6",
+    "wdio": "^8.10.0"
+  }
+}
